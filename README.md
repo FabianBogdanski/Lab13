@@ -14,12 +14,12 @@ Mauris sagittis nunc elementum risus semper molestie. Aliquam accumsan turpis li
 ~~Lorem ipsum dolor sit amet~~
 
 "Lorem ipsum dolor sit amet"
-
-- pierwszy
-- drugi
-- trzeci
-- czwarty
-
+*items
+        - pierwszy
+        - drugi
+        - trzeci
+        - czwarty
+*items2
 1. pierwszy
 2. drugi
 3. trzeci

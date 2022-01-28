@@ -15,11 +15,11 @@ Mauris sagittis nunc elementum risus semper molestie. Aliquam accumsan turpis li
 
 "Lorem ipsum dolor sit amet"
 
--items
-  - pierwszy
-  - drugi
-  - trzeci
-  - czwarty
+* Fruit
+  * Apple
+  * Orange
+  * Banana
+
         
 *items2
 1. pierwszy

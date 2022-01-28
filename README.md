@@ -15,17 +15,17 @@ Mauris sagittis nunc elementum risus semper molestie. Aliquam accumsan turpis li
 
 "Lorem ipsum dolor sit amet"
 
-* Fruit
-  * Apple
-  * Orange
-  * Banana
+* Kolory
+  * Niebieski
+  * Pomarańczowy
+  * Czerwony
 
         
-*items2
-1. pierwszy
-2. drugi
-3. trzeci
-4. czwarty
+1. items2
+  1. pierwszy
+  2. drugi
+2. trzeci
+3. czwarty
 
 
 

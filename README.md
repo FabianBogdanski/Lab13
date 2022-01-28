@@ -25,14 +25,13 @@ Mauris sagittis nunc elementum risus semper molestie. Aliquam accumsan turpis li
     1. jeden
     2. dwa
 2. dwa
-       
+   
+  if 1==1:
+     print("abcd)
+  print("bcda")
 
 
-
-        <html>
-          <head>
-            <title>Test</title>
-          </head>
+        
           
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultrices elit et tincidunt tincidunt. Nulla in auctor mi. Curabitur non vehicula arcu, porta fermentum est
 

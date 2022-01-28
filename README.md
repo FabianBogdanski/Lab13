@@ -19,3 +19,8 @@ Mauris sagittis nunc elementum risus semper molestie. Aliquam accumsan turpis li
 - drugi
 - trzeci
 - czwarty
+
+1. pierwszy
+2. drugi
+3. trzeci
+4. czwarty
